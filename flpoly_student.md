@@ -1,27 +1,25 @@
-## First Name Last Name
+## Daniel Phelps
 
-### Term Year 
+### Spring 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Computer Information Technology and Applications
 
-- Course 2
+- Introduction to Data Science
 
-- Course 3
+- Law, Public Policy, Negotiation, and Business
 
-- Course 4
+- Principles of Macroeconomics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
+- Sports
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Family
 
 ***
-
-> Last modified: YYYY/MM/DD
